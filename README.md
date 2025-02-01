@@ -14,46 +14,67 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Mi Proyecto en POO con Java
+# Hola, soy **David Gaviria** 👨‍💻
 
-Este es un proyecto de **Programación Orientada a Objetos (POO)** realizado en Java. El objetivo del proyecto es demostrar conceptos clave de la POO como **herencia**, **polimorfismo**, **encapsulamiento** y **composición**. 
+> **Desarrollador de Software Backend** | **21 años**  
+> Experto en tecnologías como **Java**, **Python**, **JavaScript**, **Spring**, **API Rest**, **Bases de datos** y **Inteligencia Artificial**.
 
-## Características del Proyecto
+## 🚀 Acerca de mí
+Soy un apasionado del desarrollo de software, con experiencia trabajando en el backend de aplicaciones robustas. Me encanta resolver problemas complejos y aprender nuevas tecnologías. He trabajado con herramientas de programación funcional como **Streams y Lambdas** en Java, y he implementado **APIs Restful** usando **Spring**.
 
-### 1. **Clases Principales**
-   <ul>
-       <li><strong>Persona</strong>: Representa a una persona con atributos como nombre, edad y género.</li>
-       <li><strong>Empleado</strong>: Una subclase de Persona que agrega un atributo de salario.</li>
-       <li><strong>Gestión de Empleados</strong>: Administra una lista de empleados utilizando una clase de gestión.</li>
-   </ul>
+### 🔧 Tecnologías que manejo:
+- **Lenguajes de programación**: Java, Python, JavaScript
+- **Frameworks y bibliotecas**: Spring, JavaFX
+- **Bases de datos**: MySQL, PostgreSQL, Oracle
+- **API Rest** y **Microservicios**
+- **Programación funcional**: Streams, Lambdas, Reference Methods
+- **Desarrollo frontend**: HTML, CSS, JavaScript
+- **Inteligencia Artificial**: Visión Artificial
 
-### 2. **Composición**
-   <p>La clase <code>GestiónDeEmpleados</code> utiliza composición para manejar la lista de empleados, lo que asegura que los objetos de empleados sean gestionados de forma eficiente.</p>
+## 🌟 Proyectos Destacados
 
-### 3. **Herencia**
-   <p>La clase <code>Empleado</code> hereda de la clase <code>Persona</code>, reutilizando los atributos comunes y añadiendo nuevos específicos.</p>
+### 1. **Sistema de Gestión de Clientes**
+   Un sistema completo de gestión de clientes usando **Spring Boot** y **MySQL**. Permite agregar, actualizar, eliminar y listar clientes a través de un API Restful.
 
-## Instrucciones para ejecutar
+   - **Tecnologías**: Java, Spring Boot, MySQL
+   - **Descripción**: API Restful que interactúa con una base de datos MySQL para gestionar la información de los clientes.
 
-1. Clona el repositorio en tu máquina local:
-    ```bash
-    git clone https://github.com/usuario/mi-repositorio.git
-    ```
-2. Accede a la carpeta del proyecto:
-    ```bash
-    cd mi-repositorio
-    ```
-3. Compila y ejecuta el proyecto en tu entorno Java:
-    ```bash
-    javac *.java
-    java Main
-    ```
+### 2. **Aplicación de Visión Artificial**
+   Desarrollé una aplicación de **Visión Artificial** que permite analizar imágenes y detectar objetos utilizando **TensorFlow**.
 
-## Tecnologías utilizadas
-<ul>
-   <li>Java 11+</li>
-   <li>IDE: IntelliJ IDEA</li>
-</ul>
+   - **Tecnologías**: Python, OpenCV, TensorFlow
 
-## Contribuciones
-Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, abre un **issue** o envía un **pull request**.
+## 📊 Mis Habilidades
+
+![Habilidades](https://img.shields.io/badge/Java-Spring-green)
+![Habilidades](https://img.shields.io/badge/Python-OpenCV-blue)
+![Habilidades](https://img.shields.io/badge/JavaScript-React-yellow)
+
+- **Spring Framework**: Desarrollo de microservicios y APIs.
+- **Bases de datos**: Diseño y optimización de consultas SQL.
+- **Inteligencia Artificial**: Implementación de modelos de visión artificial.
+
+## 📈 Experiencia y Educación
+Soy un **desarrollador autodidacta** con experiencia trabajando en proyectos reales tanto en equipos de desarrollo como de forma independiente. He estudiado temas relacionados con la **Inteligencia Artificial** y me encuentro en constante aprendizaje.
+
+- **Curso de Spring Framework** (2023)
+- **Desarrollo Backend con Java** (2022)
+- **Inteligencia Artificial y Visión Artificial** (2021)
+
+## 📬 Contáctame
+
+Si quieres conectarte o discutir sobre un proyecto, no dudes en contactarme:
+
+- **Correo**: david.gaviria@example.com
+- **LinkedIn**: [David Gaviria](https://www.linkedin.com/in/david-gaviria/)
+- **GitHub**: [@DavidGaviri](https://github.com/DavidGaviri)
+
+## 🖼️ Mi Foto
+
+<img src="https://i.imgur.com/xyz123.jpg" alt="David Gaviria" width="200"/>
+
+> **Nota**: Asegúrate de reemplazar la URL de la foto con tu propia imagen. Puedes subir tu foto a un servicio como Imgur o GitHub para obtener la URL.
+
+---
+
+¡Gracias por visitar mi perfil! Espero poder compartir más proyectos y conocimientos con la comunidad. 🚀
