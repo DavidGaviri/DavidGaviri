@@ -56,6 +56,7 @@ Soy un apasionado del desarrollo de software, con experiencia trabajando en el b
 
 ## 📈 Experiencia y Educación
 Soy un **desarrollador autodidacta** con experiencia trabajando en proyectos reales tanto en equipos de desarrollo como de forma independiente. He estudiado temas relacionados con la **Inteligencia Artificial** y me encuentro en constante aprendizaje.
+**1 año de experiencia desarrollando para @LaGeekipediaDeErnesto**
 
 - **Curso de Spring Framework** (2023)
 - **Desarrollo Backend con Java** (2022)
@@ -63,18 +64,6 @@ Soy un **desarrollador autodidacta** con experiencia trabajando en proyectos rea
 
 ## 📬 Contáctame
 
-Si quieres conectarte o discutir sobre un proyecto, no dudes en contactarme:
-
-- **Correo**: david.gaviria@example.com
-- **LinkedIn**: [David Gaviria](https://www.linkedin.com/in/david-gaviria/)
-- **GitHub**: [@DavidGaviri](https://github.com/DavidGaviri)
-
-## 🖼️ Mi Foto
-
-<img src="https://i.imgur.com/xyz123.jpg" alt="David Gaviria" width="200"/>
-
-> **Nota**: Asegúrate de reemplazar la URL de la foto con tu propia imagen. Puedes subir tu foto a un servicio como Imgur o GitHub para obtener la URL.
-
----
+- **Correo**: tayrongaviria@gmail.com
 
 ¡Gracias por visitar mi perfil! Espero poder compartir más proyectos y conocimientos con la comunidad. 🚀
