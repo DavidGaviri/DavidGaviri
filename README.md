@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 > Experto en tecnologías como **Java**, **Python**, **JavaScript**, **Spring**, **API Rest**, **Bases de datos** y **Inteligencia Artificial**.
 
 ## 🚀 Acerca de mí
-Soy un apasionado del desarrollo de software, con experiencia trabajando en el backend de aplicaciones robustas. Me encanta resolver problemas complejos y aprender nuevas tecnologías. He trabajado con herramientas de programación funcional como **Streams y Lambdas** en Java, y he implementado **APIs Restful** usando **Spring**.
+Tecnologo en desarrollo de software, con experiencia trabajando en el backend de aplicaciones robustas. Me encanta resolver problemas complejos y aprender nuevas tecnologías. He trabajado con herramientas de programación funcional como **Streams y Lambdas** en Java, y he implementado **APIs Restful** usando **Spring**.
 
 ### 🔧 Tecnologías que manejo:
 - **Lenguajes de programación**: Java, Python, JavaScript
-- **Frameworks y bibliotecas**: Spring, JavaFX
-- **Bases de datos**: MySQL, PostgreSQL, Oracle
+- **Frameworks y bibliotecas**: Spring Boot, JavaFX, Bootstrap
+- **Bases de datos**: MySQL, PostgreSQL, Oracle,SQL
 - **API Rest** y **Microservicios**
 - **Programación funcional**: Streams, Lambdas, Reference Methods
 - **Desarrollo frontend**: HTML, CSS, JavaScript
@@ -56,7 +56,7 @@ Soy un apasionado del desarrollo de software, con experiencia trabajando en el b
 
 ## 📈 Experiencia y Educación
 Soy un **desarrollador autodidacta** con experiencia trabajando en proyectos reales tanto en equipos de desarrollo como de forma independiente. He estudiado temas relacionados con la **Inteligencia Artificial** y me encuentro en constante aprendizaje.
-**1 año de experiencia desarrollando para @LaGeekipediaDeErnesto**
+**2 año de experiencia desarrollando para @LaGeekipediaDeErnesto**
 
 - **Curso de Spring Framework** (2023)
 - **Desarrollo Backend con Java** (2022)
