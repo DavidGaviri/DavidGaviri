@@ -1,65 +1,59 @@
+<!-- **DavidGaviri/DavidGaviri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Hi, I'm David Gaviria
 
+Backend Software Developer | 21 years old
+Skilled in technologies such as Java, Python, JavaScript, Spring, REST APIs, Databases, and Artificial Intelligence.
 
-<!--
-**DavidGaviri/DavidGaviri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+Software development technologist with experience working on the backend of robust applications. I love solving complex problems and learning new technologies. I have worked with functional programming tools such as Streams and Lambdas in Java, and I have implemented RESTful APIs using Spring.
 
--  I’m currently working on ...
--  I’m currently learning ...
--  I’m looking to collaborate on ...
--  I’m looking for help with ...
--  Ask me about ...
--  How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
--->
-# Hola, soy **David Gaviria** 
+Technologies I work with:
 
-> **Desarrollador de Software Backend** | **21 años**  
-> Experto en tecnologías como **Java**, **Python**, **JavaScript**, **Spring**, **API Rest**, **Bases de datos** y **Inteligencia Artificial**.
+Programming Languages: Java, Python, JavaScript
 
-## Acerca de mí
-Tecnologo en desarrollo de software, con experiencia trabajando en el backend de aplicaciones robustas. Me encanta resolver problemas complejos y aprender nuevas tecnologías. He trabajado con herramientas de programación funcional como **Streams y Lambdas** en Java, y he implementado **APIs Restful** usando **Spring**.
+Frameworks and Libraries: Spring Boot, JavaFX, Bootstrap
 
-### Tecnologías que manejo:
-- **Lenguajes de programación**: Java, Python, JavaScript
-- **Frameworks y bibliotecas**: Spring Boot, JavaFX, Bootstrap
-- **Bases de datos**: MySQL, PostgreSQL, Oracle,SQL
-- **API Rest** y **Microservicios**
-- **Programación funcional**: Streams, Lambdas, Reference Methods
-- **Desarrollo frontend**: HTML, CSS, JavaScript
-- **Inteligencia Artificial**: Visión Artificial
+Databases: MySQL, PostgreSQL, Oracle, SQL
 
-## Proyectos Destacados
+REST APIs and Microservices
 
-### 1. **Sistema de Gestión de Clientes**
-   Un sistema completo de gestión de clientes usando **Spring Boot** y **MySQL**. Permite agregar, actualizar, eliminar y listar clientes a través de un API Restful.
+Functional Programming: Streams, Lambdas, Method References
 
-   - **Tecnologías**: Java, Spring Boot, MySQL
-   - **Descripción**: API Restful que interactúa con una base de datos MySQL para gestionar la información de los clientes.
+Frontend Development: HTML, CSS, JavaScript
 
-### 2. **Aplicación de Visión Artificial**
-   Desarrollé una aplicación de **Visión Artificial** que permite analizar imágenes y detectar objetos utilizando **TensorFlow**.
+Artificial Intelligence: Computer Vision
 
-   - **Tecnologías**: Python, OpenCV, TensorFlow
+Featured Projects
+1. Client Management System
 
-##  Mis Habilidades
+A complete client management system built with Spring Boot and MySQL. It allows adding, updating, deleting, and listing clients through a RESTful API.
 
+Technologies: Java, Spring Boot, MySQL
 
-- **Spring Framework**: Desarrollo de microservicios y APIs.
-- **Bases de datos**: Diseño y optimización de consultas SQL(Postgres.Mysql,Oracle).
-- **Inteligencia Artificial**: Implementación de modelos de visión artificial.
+Description: RESTful API that interacts with a MySQL database to manage client information.
 
+2. Computer Vision Application
 
-##  Experiencia y Educación
-Soy un **desarrollador autodidacta** con experiencia trabajando en proyectos reales tanto en equipos de desarrollo como de forma independiente. He estudiado temas relacionados con la **Inteligencia Artificial** y me encuentro en constante aprendizaje.
-**2 año de experiencia desarrollando para @LaGeekipediaDeErnesto como freelance**
+I developed a Computer Vision application that analyzes images and detects objects using TensorFlow.
 
+Technologies: Python, OpenCV, TensorFlow
 
+My Skills
 
-##  Contáctame
+Spring Framework: Microservices and API development.
 
-- **Correo**: tayrongaviria@gmail.com
+Databases: SQL query design and optimization (Postgres, MySQL, Oracle).
 
-¡Gracias por visitar mi perfil! Espero poder compartir más proyectos y conocimientos con la comunidad. 
+Artificial Intelligence: Implementation of computer vision models.
+
+Experience & Education
+
+I am a self-taught developer with experience working on real projects both in development teams and independently. I have studied topics related to Artificial Intelligence and I am constantly learning.
+2 years of experience developing as a freelance for @LaGeekipediaDeErnesto.
+
+Contact Me
+
+Email: tayrongaviria@gmail.com
+
+Thanks for visiting my profile! I look forward to sharing more projects and knowledge with the community.
