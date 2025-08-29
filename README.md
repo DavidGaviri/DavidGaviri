@@ -5,24 +5,24 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m currently working on ...
+-  I’m currently learning ...
+-  I’m looking to collaborate on ...
+-  I’m looking for help with ...
+-  Ask me about ...
+-  How to reach me: ...
+-  Pronouns: ...
+-  Fun fact: ...
 -->
-# Hola, soy **David Gaviria** 👨‍💻
+# Hola, soy **David Gaviria** 
 
 > **Desarrollador de Software Backend** | **21 años**  
 > Experto en tecnologías como **Java**, **Python**, **JavaScript**, **Spring**, **API Rest**, **Bases de datos** y **Inteligencia Artificial**.
 
-## 🚀 Acerca de mí
+## Acerca de mí
 Tecnologo en desarrollo de software, con experiencia trabajando en el backend de aplicaciones robustas. Me encanta resolver problemas complejos y aprender nuevas tecnologías. He trabajado con herramientas de programación funcional como **Streams y Lambdas** en Java, y he implementado **APIs Restful** usando **Spring**.
 
-### 🔧 Tecnologías que manejo:
+### Tecnologías que manejo:
 - **Lenguajes de programación**: Java, Python, JavaScript
 - **Frameworks y bibliotecas**: Spring Boot, JavaFX, Bootstrap
 - **Bases de datos**: MySQL, PostgreSQL, Oracle,SQL
@@ -31,7 +31,7 @@ Tecnologo en desarrollo de software, con experiencia trabajando en el backend de
 - **Desarrollo frontend**: HTML, CSS, JavaScript
 - **Inteligencia Artificial**: Visión Artificial
 
-## 🌟 Proyectos Destacados
+## Proyectos Destacados
 
 ### 1. **Sistema de Gestión de Clientes**
    Un sistema completo de gestión de clientes usando **Spring Boot** y **MySQL**. Permite agregar, actualizar, eliminar y listar clientes a través de un API Restful.
@@ -44,7 +44,7 @@ Tecnologo en desarrollo de software, con experiencia trabajando en el backend de
 
    - **Tecnologías**: Python, OpenCV, TensorFlow
 
-## 📊 Mis Habilidades
+##  Mis Habilidades
 
 ![Habilidades](https://img.shields.io/badge/Java-Spring-green)
 ![Habilidades](https://img.shields.io/badge/Python-OpenCV-blue)
@@ -54,7 +54,7 @@ Tecnologo en desarrollo de software, con experiencia trabajando en el backend de
 - **Bases de datos**: Diseño y optimización de consultas SQL.
 - **Inteligencia Artificial**: Implementación de modelos de visión artificial.
 
-## 📈 Experiencia y Educación
+##  Experiencia y Educación
 Soy un **desarrollador autodidacta** con experiencia trabajando en proyectos reales tanto en equipos de desarrollo como de forma independiente. He estudiado temas relacionados con la **Inteligencia Artificial** y me encuentro en constante aprendizaje.
 **2 año de experiencia desarrollando para @LaGeekipediaDeErnesto**
 
@@ -62,8 +62,8 @@ Soy un **desarrollador autodidacta** con experiencia trabajando en proyectos rea
 - **Desarrollo Backend con Java** (2022)
 - **Inteligencia Artificial y Visión Artificial** (2021)
 
-## 📬 Contáctame
+##  Contáctame
 
 - **Correo**: tayrongaviria@gmail.com
 
-¡Gracias por visitar mi perfil! Espero poder compartir más proyectos y conocimientos con la comunidad. 🚀
+¡Gracias por visitar mi perfil! Espero poder compartir más proyectos y conocimientos con la comunidad. 
