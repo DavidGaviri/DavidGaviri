@@ -46,21 +46,17 @@ Tecnologo en desarrollo de software, con experiencia trabajando en el backend de
 
 ##  Mis Habilidades
 
-![Habilidades](https://img.shields.io/badge/Java-Spring-green)
-![Habilidades](https://img.shields.io/badge/Python-OpenCV-blue)
-![Habilidades](https://img.shields.io/badge/JavaScript-React-yellow)
 
 - **Spring Framework**: Desarrollo de microservicios y APIs.
-- **Bases de datos**: Diseño y optimización de consultas SQL.
+- **Bases de datos**: Diseño y optimización de consultas SQL(Postgres.Mysql,Oracle).
 - **Inteligencia Artificial**: Implementación de modelos de visión artificial.
+
 
 ##  Experiencia y Educación
 Soy un **desarrollador autodidacta** con experiencia trabajando en proyectos reales tanto en equipos de desarrollo como de forma independiente. He estudiado temas relacionados con la **Inteligencia Artificial** y me encuentro en constante aprendizaje.
-**2 año de experiencia desarrollando para @LaGeekipediaDeErnesto**
+**2 año de experiencia desarrollando para @LaGeekipediaDeErnesto como freelance**
 
-- **Curso de Spring Framework** (2023)
-- **Desarrollo Backend con Java** (2022)
-- **Inteligencia Artificial y Visión Artificial** (2021)
+
 
 ##  Contáctame
 
