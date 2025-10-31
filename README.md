@@ -1,4 +1,4 @@
-<!-- Profile README for David Gaviria -->
+
 
 <h1 align="center">Hi, I'm David Gaviria</h1>
 
