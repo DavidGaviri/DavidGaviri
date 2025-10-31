@@ -1,59 +1,90 @@
-<!-- **DavidGaviri/DavidGaviri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-Hi, I'm David Gaviria
+<!-- Profile README for David Gaviria -->
 
-Backend Software Developer | 21 years old
-Skilled in technologies such as Java, Python, JavaScript, Spring, REST APIs, Databases, and Artificial Intelligence.
+<h1 align="center">Hi, I'm David Gaviria</h1>
 
-About Me
+<p align="center">
+  <strong>Backend Software Developer | 21 years old</strong><br>
+  Specialized in Microservices with Spring Boot, Security, and Cloud.
+</p>
 
-Software development technologist with experience working on the backend of robust applications. I love solving complex problems and learning new technologies. I have worked with functional programming tools such as Streams and Lambdas in Java, and I have implemented RESTful APIs using Spring.
+---
 
-Technologies I work with:
+###  About Me
 
-Programming Languages: Java, Python, JavaScript
+I'm a **Software Developer** focused on building scalable and maintainable backend systems.  
+I have strong experience designing **RESTful APIs**, implementing **microservices architectures**, and integrating advanced tools within the **Spring ecosystem**.
 
-Frameworks and Libraries: Spring Boot, JavaFX, Bootstrap
+I'm passionate about solving complex problems and constantly learning new technologies.
 
-Databases: MySQL, PostgreSQL, Oracle, SQL
+---
 
-REST APIs and Microservices
+###  Technologies & Tools
 
-Functional Programming: Streams, Lambdas, Method References
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,go,php,cs,html,css" />
+</p>
 
-Frontend Development: HTML, CSS, JavaScript
+<p align="center">
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=spring,react,dotnet" />
+</p>
 
-Artificial Intelligence: Computer Vision
+<p align="center">
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
+</p>
 
-Featured Projects
-1. Client Management System
+<p align="center">
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,docker" />
+</p>
 
-A complete client management system built with Spring Boot and MySQL. It allows adding, updating, deleting, and listing clients through a RESTful API.
+---
 
-Technologies: Java, Spring Boot, MySQL
+###  My Expertise
 
-Description: RESTful API that interacts with a MySQL database to manage client information.
+- **Spring Framework**: Spring Boot, Spring Cloud, Spring Security, Spring Config  
+- **Microservices**: Architecture design, inter-service communication, configuration management  
+- **Databases**: Design and optimization in MySQL, PostgreSQL, and Oracle  
+- **Frontend**: React, HTML, CSS, JavaScript, TypeScript  
+- **Artificial Intelligence**: Experience with Computer Vision using Python and TensorFlow  
+- **Dev Practices**: Clean code, REST API design, functional programming (Streams, Lambdas, Method References)
 
-2. Computer Vision Application
+---
 
-I developed a Computer Vision application that analyzes images and detects objects using TensorFlow.
+###  Featured Projects
 
-Technologies: Python, OpenCV, TensorFlow
+#### 1. Client Management System
+A complete client management system built with **Spring Boot** and **MySQL**.
 
-My Skills
+- **Features**: CRUD operations, validation, layered architecture  
+- **Technologies**: Java, Spring Boot, MySQL  
+- **Description**: RESTful API to manage client information and handle backend operations efficiently.
 
-Spring Framework: Microservices and API development.
+#### 2. Computer Vision Application
+Developed an image analysis system using **Python**, **OpenCV**, and **TensorFlow** to detect and classify objects.
 
-Databases: SQL query design and optimization (Postgres, MySQL, Oracle).
+- **Features**: Object detection and image preprocessing  
+- **Technologies**: Python, TensorFlow, OpenCV
 
-Artificial Intelligence: Implementation of computer vision models.
+---
 
-Experience & Education
+###  Experience & Education
 
-I am a self-taught developer with experience working on real projects both in development teams and independently. I have studied topics related to Artificial Intelligence and I am constantly learning.
-2 years of experience developing as a freelance for @LaGeekipediaDeErnesto.
+- 2 years of experience as a **Freelance Backend Developer** for [@LaGeekipediaDeErnesto](https://www.youtube.com/@LaGeekipediaDeErnesto).  
+- Self-taught in **Artificial Intelligence** and **Backend Engineering**.  
+- Experienced in both **team environments** and **independent development**.
 
-Contact Me
+---
 
-Email: tayrongaviria@gmail.com
+###  Contact Me
 
-Thanks for visiting my profile! I look forward to sharing more projects and knowledge with the community.
+- **Email:** [tayrongaviria@gmail.com](mailto:tayrongaviria@gmail.com)
+- **GitHub:** [github.com/DavidGaviri](https://github.com/DavidGaviri)
+
+---
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+</p>
