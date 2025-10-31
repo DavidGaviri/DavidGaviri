@@ -20,23 +20,23 @@ I'm passionate about solving complex problems and constantly learning new techno
 
 ###  Technologies & Tools
 
+####  Programming Languages
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,go,php,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,go,cs,html,css" />
 </p>
 
+####  Frameworks & Libraries
 <p align="center">
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=spring,react,dotnet" />
+  <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,dotnet" />
 </p>
 
+####  Databases
 <p align="center">
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,mongodb" />
 </p>
 
+####  Tools & Environments
 <p align="center">
-  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,docker" />
 </p>
 
@@ -45,11 +45,11 @@ I'm passionate about solving complex problems and constantly learning new techno
 ###  My Expertise
 
 - **Spring Framework**: Spring Boot, Spring Cloud, Spring Security, Spring Config  
-- **Microservices**: Architecture design, inter-service communication, configuration management  
-- **Databases**: Design and optimization in MySQL, PostgreSQL, and Oracle  
-- **Frontend**: React, HTML, CSS, JavaScript, TypeScript  
-- **Artificial Intelligence**: Experience with Computer Vision using Python and TensorFlow  
-- **Dev Practices**: Clean code, REST API design, functional programming (Streams, Lambdas, Method References)
+- **Microservices**: Architecture design, service discovery, configuration management  
+- **Databases**: Design and optimization with MySQL, PostgreSQL, Oracle, MongoDB  
+- **Frontend**: React, Bootstrap, HTML, CSS, JavaScript, TypeScript  
+- **AI & Computer Vision**: Using Python, OpenCV, and TensorFlow  
+- **Good Practices**: Clean Architecture, Functional Programming (Streams, Lambdas, Method References)
 
 ---
 
@@ -58,29 +58,29 @@ I'm passionate about solving complex problems and constantly learning new techno
 #### 1. Client Management System
 A complete client management system built with **Spring Boot** and **MySQL**.
 
-- **Features**: CRUD operations, validation, layered architecture  
+- **Features**: CRUD operations, layered architecture, DTO mapping  
 - **Technologies**: Java, Spring Boot, MySQL  
-- **Description**: RESTful API to manage client information and handle backend operations efficiently.
+- **Description**: RESTful API to manage client data and backend business logic efficiently.
 
 #### 2. Computer Vision Application
-Developed an image analysis system using **Python**, **OpenCV**, and **TensorFlow** to detect and classify objects.
+Developed an image analysis system using **Python**, **OpenCV**, and **TensorFlow** for object detection.
 
-- **Features**: Object detection and image preprocessing  
+- **Features**: Image preprocessing, real-time detection  
 - **Technologies**: Python, TensorFlow, OpenCV
 
 ---
 
 ###  Experience & Education
 
-- 3 years of experience as a **Freelance Backend Developer** for [@LaGeekipediaDeErnesto](https://www.youtube.com/@LaGeekipediaDeErnesto).  
-- Self-taught in **Artificial Intelligence** and **Backend Engineering**.  
-- Experienced in both **team environments** and **independent development**.
+- 3 years of experience as a **Freelance Backend Developer** for [@LaGeekipediaDeErnesto](https://www.youtube.com/@LaGeekipediaDeErnesto)  
+- Self-taught in **Artificial Intelligence** and **Backend Engineering**  
+- Experienced in both **team environments** and **independent development**
 
 ---
 
 ###  Contact Me
 
-- **Email:** [tayrongaviria@gmail.com](mailto:tayrongaviria@gmail.com)
+- **Email:** [ygaviria@unimayor.edu.co](mailto:tayrongaviria@gmail.com)
 - **GitHub:** [github.com/DavidGaviri](https://github.com/DavidGaviri)
 
 ---
