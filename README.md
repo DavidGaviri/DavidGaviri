@@ -72,7 +72,7 @@ Developed an image analysis system using **Python**, **OpenCV**, and **TensorFlo
 
 ###  Experience & Education
 
-- 2 years of experience as a **Freelance Backend Developer** for [@LaGeekipediaDeErnesto](https://www.youtube.com/@LaGeekipediaDeErnesto).  
+- 3 years of experience as a **Freelance Backend Developer** for [@LaGeekipediaDeErnesto](https://www.youtube.com/@LaGeekipediaDeErnesto).  
 - Self-taught in **Artificial Intelligence** and **Backend Engineering**.  
 - Experienced in both **team environments** and **independent development**.
 
