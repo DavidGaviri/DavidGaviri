@@ -33,6 +33,7 @@ I'm passionate about solving complex problems and constantly learning new techno
 ####  Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" title="Oracle" />
 </p>
 
 ####  Tools & Environments
