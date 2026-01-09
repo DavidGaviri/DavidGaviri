@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm David Gaviria</h1>
 
 <p align="center">
-  <strong>Backend Software Developer | 21 years old</strong><br>
+  <strong>Web software developer| 21 years old</strong><br>
   Specialized in Microservices with Spring Boot, Security, and Cloud.
 </p>
 
